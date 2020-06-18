@@ -74,6 +74,7 @@ input, select, textarea {
 
 /* Basic */
 
+
 	html {
 		box-sizing: border-box;
 	}
@@ -102,7 +103,7 @@ input, select, textarea {
 		font-weight: 300;
 		color: #777;
 		line-height: 1.65em;
-		font-size: 15pt;
+		font-size: 1500pt;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -110,6 +111,7 @@ input, select, textarea {
 		text-transform: uppercase;
 		color: #888;
 	}
+
 
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 		color: inherit;
@@ -126,8 +128,8 @@ input, select, textarea {
 	}
 
 	h3 {
-		font-size: 1em;
-		letter-spacing: 2px;
+		font-size: 1.3em;
+		letter-spacing: 0px;
 		margin: 0 0 1.25em 0;
 	}
 
@@ -1506,7 +1508,7 @@ input, select, textarea {
 		.image.featured {
 			display: block;
 			width: 100%;
-			margin: 0 0 3.5em 0;
+			margin: 0 0 2.4em 0;
 		}
 
 		.image.left {
@@ -1909,7 +1911,7 @@ input, select, textarea {
 	}
 
 		#header > .container {
-			padding: 14em 0 7em 0;
+			padding: 10em 0 7em 0;
 			border-bottom: solid 2px #e5e5e5;
 			box-shadow: inset 0px -8px 0px 0px #fff, inset 0px -10px 0px 0px #e5e5e5;
 		}
@@ -1931,7 +1933,7 @@ input, select, textarea {
 			text-transform: uppercase;
 			font-weight: 400;
 			color: #888;
-			margin: 2.5em 0 0 0;
+			margin: 2.5em 0 -0.2em 0;
 			font-size: 0.85em;
 			letter-spacing: 3px;
 			text-align: center;
